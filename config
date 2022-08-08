@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	email = none
+	name = Glitch (vintage-agate-temperature)
+[remote "heroku"]
+	url = https://git.heroku.com/tranggamevip-server.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
